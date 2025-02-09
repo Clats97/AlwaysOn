@@ -11,3 +11,7 @@ CLI version:
 
 GUI version:
 ![jiggler2](https://github.com/user-attachments/assets/25bd4b08-785b-43db-b9ef-22172657dc0d)
+
+Copyright 2025 Joshua M Clatney (Clats97) All Rights Reserved
+
+**DISCLAIMER: This project comes with no warranty, express or implied. The author is not responsible for abuse, misuse, or vulnerabilities. Please use responsibly and ethically in accordance with relevant laws, regulations, legislation and best practices.**
